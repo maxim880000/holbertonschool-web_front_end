@@ -1,0 +1,4 @@
+/* Transitions fluides au défilement */
+html {
+    scroll-behavior: smooth;
+}
