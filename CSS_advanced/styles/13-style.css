@@ -42,7 +42,6 @@ body {
     line-height: var(--line-height-base);
 }
 
-/* Pseudo-classes pour les liens */
 a[href] {
     color: var(--text-color);
     text-decoration: none;
